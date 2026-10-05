@@ -26,8 +26,8 @@ model = MultinomialNB()
 model.fit(X_train, y_train)
 
 # 2. Gmail Details
-EMAIL_ACCOUNT = "smathumitha697@gmail.com"  
-APP_PASSWORD = "gbaf ifwj gdnb lndc"  
+EMAIL_ACCOUNT = "xxxxxxxxxxxx"  (your mail id)
+APP_PASSWORD = "xxxxxxxxxxxxx" (your password) 
 
 try:
     # Connect to Gmail IMAP
